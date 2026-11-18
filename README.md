@@ -11,6 +11,9 @@
 
 > **PS5X** is an independent software environment and specialized emulation platform designed to reproduce and explore console architecture components on standard high-performance computers. Built primarily with **Rust**, it delivers high performance, memory safety, and modular scalability.
 
+<img width="1672" height="941" alt="PS5X Studio GTA VI Countdown" src="https://github.com/user-attachments/assets/0d1e6c1d-baf1-4e1e-b704-67a6456d4f26" />
+
+
 ---
 
 ### 📥 Download & Quick Start
